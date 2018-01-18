@@ -29,10 +29,12 @@ day_header entries have a higher priority then hour entries -->
     <hour_header hour="14" image="liquid7" />
     <hour_header hour="15" image="liquid8" />
     <hour_header hour="16" image="liquid9" />
-	<hour_header hour="17" image="jayrod1" />
-	<hour_header hour="18" image="jayrod2" />
-	<hour_header hour="19" image="jayrod3" />
-	<hour_header hour="20" image="jayrod4" />
-	<hour_header hour="21" image="jayrod5" />
-	<hour_header hour="22" image="jayrod6" />
+	<hour_header hour="17" image="liquid10" />
+	<hour_header hour="18" image="liquid11" />
+	<hour_header hour="19" image="jayrod1" />
+	<hour_header hour="20" image="jayrod2" />
+	<hour_header hour="21" image="jayrod3" />
+	<hour_header hour="22" image="jayrod4" />
+	<hour_header hour="23" image="jayrod5" />
+	<hour_header hour="24" image="jayrod6" />
 </daylight_headers>
